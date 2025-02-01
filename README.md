@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cauã Bryan
 - 👀 I’m interested in systems analysis
 - 🌱 I’m currently learning TI
-- 💞️ I’m looking to collaborate on technology company
+- 💞️ I’m looking to internship on technology company
 - 📫 How to reach me e-mail: cauasauza2020@gmail.com
 
 <!---
